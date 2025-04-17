@@ -34,10 +34,7 @@ To perform exploratory data analysis (EDA) and generate meaningful visualization
 - State-wise project status  
 - Histogram distributions for road metrics  
 - India Map visualization (via Excel Maps)
-
-
 ## Key Takeaways
-
 - Data storytelling helps transform government records into actionable insights  
 - EDA helps identify gaps and strengths in implementation  
 - Visualization is powerful for comparing regional infrastructure statuses  
